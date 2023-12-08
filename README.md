@@ -1,16 +1,35 @@
-### Hi there 👋
+### Desarrollador Backend 
 
-<!--
-**angel77lgo/angel77lgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, mi nombre es Luis Angel Sanchez, soy desarrollador backend de 4 años de experiencia
 
-Here are some ideas to get you started:
+## Lenguajes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,js,java&theme=light" />
+  </a>
+</p>
+
+## Bases de datos:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,redis,cassandra&theme=light" />
+  </a>
+</p>
+
+## Frameworks:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask,fastapi,spring&theme=light" />
+  </a>
+</p>
+
+## DevOps
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins&theme=light" />
+  </a>
+</p>
