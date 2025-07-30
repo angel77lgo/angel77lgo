@@ -24,13 +24,12 @@
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,flask,fastapi,spring&theme=light" />
 </p>
 
-### DevOps / Cloud
+### DevOps, Cloud e Infraestructura
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins,kafka,rabbitmq,linux&theme=light" />
 </p>
 
----
 
 ## 🚀 Sobre mí
 
